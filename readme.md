@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Aryan%20Kaundal&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Aryan%20Kaundal&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Python%20Developer%20|%Frontend%20Designer%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
 I'm Aryan Kaundal, a Computer Science student specializing in Python development, with hands-on experience in frontend technologies and modern web development.
 
