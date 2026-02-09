@@ -35,7 +35,7 @@ I'm Aryan Kaundal, a Computer Science student specializing in Python development
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,javascript,postgresql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,bootstrap,javascript,postgresql&theme=light" />
   </a>
 </p>
 
@@ -51,12 +51,6 @@ I'm Aryan Kaundal, a Computer Science student specializing in Python development
 
 <img align="right" width="25%" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 
-
----
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryankaundal&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 
 ---
 
