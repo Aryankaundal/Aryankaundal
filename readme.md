@@ -46,10 +46,9 @@ I'm Aryan Kaundal, a Computer Science student specializing in Python development
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=light" />
   </a>
+    <img align="right" width="25%" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 </p>
 
-
-<img align="right" width="25%" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 
 
 ---
